@@ -10,9 +10,10 @@
     "find",
     "files"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/erickzanardo/trovare.gits"
+  },
   "author": "Erick Zanardo",
-  "license": "MIT",
-  "dependencies": {
-    "findit": "~2.0.0"
-  }
+  "license": "MIT"
 }
