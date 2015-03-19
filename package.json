@@ -1,0 +1,18 @@
+{
+  "name": "trovare",
+  "version": "0.0.0",
+  "description": "Simple module to find string in a files recursivily in a folder",
+  "main": "trovare.js",
+  "bin": {
+    "trovare": "./cli.js"
+  },
+  "keywords": [
+    "find",
+    "files"
+  ],
+  "author": "Erick Zanardo",
+  "license": "MIT",
+  "dependencies": {
+    "findit": "~2.0.0"
+  }
+}
