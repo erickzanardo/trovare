@@ -31,6 +31,6 @@ Trovare will always use the current terminal folder as it's search path
 ```bash
 # Single world serchTerm
 trovare string-to-search
-# Single world serchTerm
+# Multi world serchTerm
 trovare "string to search"
 ```
