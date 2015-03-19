@@ -1,6 +1,6 @@
 {
   "name": "trovare",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple module to find string in a files recursivily in a folder",
   "main": "trovare.js",
   "bin": {
